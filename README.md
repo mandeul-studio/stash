@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="appicon.png" alt="App Icon"/>
+</div>
+
 # Stash - Developer's Snippet Manager
 
 **Stash**는 개발자를 위해 설계된 가볍고 빠른 데스크탑 스니펫 관리 도구입니다. 자주 사용하는 코드 조각, 명령어(Command), 민감한 정보(Secrets)를 로컬에 안전하게 저장하고 즉시 검색하세요.
