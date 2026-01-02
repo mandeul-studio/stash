@@ -29,15 +29,19 @@ e.g., ![Main App Screenshot](./screenshots/main-app.png)
 
 ## 🛠️ Powerful Developer Tools
 
-| Utility                | Description                                                                                                |
-| :--------------------- | :--------------------------------------------------------------------------------------------------------- |
-| **🔍 Diff Checker**        | Compare two texts or code snippets side-by-side (Split View) and visually highlight word-level differences. |
-| **📝 Markdown Previewer**  | Provides a real-time Markdown editor and preview with a GitHub-style theme.                                |
-| **📡 HTTP Client**         | A lightweight HTTP client for testing backend APIs without CORS restrictions. (Supports GET, POST, etc.)   |
-| **🎨 Code to Image**        | Convert your code into beautiful gradient images and export them instantly as PNG files.                   |
-| **✍️ Text & JSON Utils**   | Offers various text-processing utilities like SQL formatting, JSON Pretty/Minify.                      |
-| **🕒 Timestamp Converter**  | Convert between Unix Epoch timestamps and dates in real-time.                                            |
-| **🎲 Data Generator**       | Quickly generate data needed for development, such as UUID v4 and secure random strings.                   |
+| Utility | Description |
+| :--- | :--- |
+| **🔍 Diff Checker** | Compare two texts or code snippets side-by-side (Split View) and visually highlight word-level differences. |
+| **📝 Markdown Previewer** | Provides a real-time Markdown editor and preview with a GitHub-style theme. |
+| **📡 HTTP Client** | A lightweight HTTP client for testing backend APIs without CORS restrictions. (Supports GET, POST, etc.) |
+| **🎨 Code to Image** | Convert your code into beautiful gradient images and export them instantly as PNG files. |
+| **✍️ Text & JSON Utils** | Offers various text-processing utilities like SQL formatting, JSON Pretty/Minify. |
+| **🔐 JWT Debugger** | Decode and inspect JSON Web Tokens securely offline. |
+| **🔤 Base64 Converter** | UTF-8 safe Base64 encoder and decoder. |
+| **🏗️ JSON to Interface** | Generate TypeScript interfaces from JSON. |
+| **🕒 Timestamp Converter** | Convert between Unix Epoch timestamps and dates in real-time. |
+| **🎲 Data Generator** | Quickly generate data needed for development, such as UUID v4 and secure random strings. |
+
 
 <!-- 
 [Screenshot Area 2: Snippet Add/Search Screen]
@@ -47,11 +51,13 @@ e.g., ![Search and Form](./screenshots/features.png)
 
 ## ⚙️ Workflow & Productivity
 
-| Feature                 | Description                                                                                                   |
-| :---------------------- | :------------------------------------------------------------------------------------------------------------ |
-| **⚡️ Global Quick Menu**   | Launch Stash instantly from any window with the `Ctrl+Shift+Space` hotkey to minimize context switching.      |
-| **💾 Data Management**     | Easily import or export all your snippets as a JSON file, making backups and migrations convenient.         |
-| **🔄 Data Reset**           | Securely reset all local data with a single click. (Includes a confirmation step)                          |
+| Feature | Description |
+| :--- | :--- |
+| **⚡️ Global Quick Menu** | Launch Stash instantly from any window with the `Ctrl+Shift+Space` hotkey to minimize context switching. |
+| **📜 Infinity Note** | A persistent scratchpad with deep search navigation and auto-save. |
+| **💾 Data Management** | Easily import or export all your snippets as a JSON file, making backups and migrations convenient. |
+| **🔄 Data Reset** | Securely reset all local data with a single click. (Includes a confirmation step) |
+
 
 ### 🐞 Bug Report
 If you find a bug, please report it on the [Issues](https://github.com/hooneun/stash-snippet-manager/issues) tab. Including reproduction steps and a screenshot would be a great help.
