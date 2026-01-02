@@ -10,6 +10,8 @@
 **Stash** is a lightweight and fast desktop snippet management tool designed to maximize developer productivity. <br/>
 Innovate your workflow by securely storing frequently used code snippets, commands, and sensitive information locally and retrieving them instantly.
 
+[**📥 Download Stash v1.1.0**](https://github.com/hooneun/stash-snippet-manager/releases/tag/v1.1.0)
+
 ---
 
 ## 🚀 Core Features
